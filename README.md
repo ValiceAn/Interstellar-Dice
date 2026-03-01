@@ -1,8 +1,50 @@
-# <h1 align="center">Space Poker ♠️</h1>
+# <h1 align="center">Interstellar Dice</h1>
 
 ---
 
-Space Poker is an interactive web-based dice game where players aim to achieve the highest score by rolling five dice. The game offers various modes, including hints, auto-scoring, team play, and random events, providing a dynamic and engaging experience. Players can customize their gameplay by selecting different modes and adding up to 15 participants, making each session unique and enjoyable.
+Interstellar Dice is a game for up to 15 players. 
 
-![s-l400](https://github.com/user-attachments/assets/c536e00d-f1f4-4e52-a5f8-ed9bc3c56d27)
+<h1>Space Poker Rules</h1>
+
+**Goal:** Get the highest score by making combinations with 5 dice.
+
+**Turns:** Each player can roll up to 3 times per turn, keeping the dice they want.
+
+**Scoring:**
+
+Singles: *Add the value of dice for each number.*
+
+Pair: *Sum of two dice with the same number.*
+
+Two Pairs: *Sum of two pairs.*
+
+Three of a Kind: *Sum of three dice with the same number.*
+
+Four of a Kind: *Sum of four dice with the same number.*
+
+Full House: *25 points.*
+
+Straight: *25 points (1–5 or 2–6).*
+
+Poker: *100 points for all 1s, 200 for all 2s, etc.*
+
+**Special Rules for Singles (“School”):**
+
+Mark X to close a number.
+
+Enter a score manually (e.g., +20 or -10).
+
+Once closed, that number can’t be used again.
+
+**Penalties:** -5 points for any empty single/“school” spot.
+
+**Modes:**
+
+Hints: *Shows the best moves.*
+
+Auto-score: *Calculates points automatically.*
+
+Team play: *Play in teams.*
+
+Random events: *Give bonuses or penalties.*
 
