@@ -2,7 +2,7 @@
 
 ---
 
-Interstellar Dice is a game for up to 15 players. 
+<h5 align="center">Interstellar Dice is a game for up to 15 players.</h5>
 
 # Space Poker Rules
 
